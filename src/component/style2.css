@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    background-color: green;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+ul li{ 
+    display: inline;
+    padding: 70px;
+    color : white;
+    font-size: 25px;
+}
+
+.mar{
+    /* margin : 1px 210px 1px; */
+    background-color: green;
+}
+.m2{
+    float: left; 
+    background-color: gray;
+    width : 30%;
+    margin-bottom: 10px;
+}
+.m1{
+    float: left;
+    background-color: yellow;
+    width : 70%;
+    margin-bottom: 10px;
+}
+.wi{
+    float: left; 
+    width : 33.3%;
+    background-color: skyblue;
+    padding:50px;
+}
